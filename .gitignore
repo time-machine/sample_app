@@ -23,4 +23,5 @@ doc/
 
 # appfog deployment
 db/schema.rb
+public/assets
 vendor/cache
